@@ -2,5 +2,9 @@
   {
     "name": "hallo",
     "color": "#fbbf24"
+  },
+  {
+    "name": "test",
+    "color": "#236bfb"
   }
 ]
