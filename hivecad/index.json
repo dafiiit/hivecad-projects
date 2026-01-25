@@ -51,5 +51,14 @@
     "lastModified": 1769379782655,
     "labels": [],
     "deletedAt": 1769379781785
+  },
+  {
+    "id": "example-gridfinity",
+    "name": "Gridfinity Box",
+    "ownerId": "dafiiit",
+    "version": "1.0.0",
+    "lastModified": 1769379898381,
+    "labels": [],
+    "deletedAt": 1769379897842
   }
 ]
