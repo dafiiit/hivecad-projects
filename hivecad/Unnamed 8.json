@@ -238,6 +238,7 @@
     "currentVersionId": null
   },
   "version": "1.0.0",
-  "lastModified": 1769379286730,
-  "labels": []
+  "lastModified": 1769379794085,
+  "labels": [],
+  "deletedAt": 1769379793118
 }
