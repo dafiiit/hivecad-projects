@@ -29,7 +29,7 @@
         },
         "color": "#60c060",
         "visible": true,
-        "selected": false,
+        "selected": true,
         "geometry": {
           "metadata": {
             "version": 4.6,
@@ -371,6 +371,6 @@
     "currentVersionId": null
   },
   "version": "1.0.0",
-  "lastModified": 1769385013079,
+  "lastModified": 1769385016248,
   "tags": []
 }
