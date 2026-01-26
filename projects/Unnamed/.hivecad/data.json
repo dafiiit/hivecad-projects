@@ -6,6 +6,283 @@
     "fileName": "Unnamed",
     "objects": [
       {
+        "id": "shape1",
+        "name": "Box 1",
+        "type": "box",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ],
+        "dimensions": {},
+        "color": "#6090c0",
+        "visible": true,
+        "selected": false,
+        "geometry": {
+          "metadata": {
+            "version": 4.6,
+            "type": "BufferGeometry",
+            "generator": "BufferGeometry.toJSON"
+          },
+          "uuid": "94f0acd6-dd81-4452-9e5d-f52ce70161ce",
+          "type": "BufferGeometry",
+          "data": {
+            "attributes": {
+              "position": {
+                "itemSize": 3,
+                "type": "Float32Array",
+                "array": [
+                  -50,
+                  5,
+                  0,
+                  -50,
+                  5,
+                  10,
+                  50,
+                  5,
+                  10,
+                  50,
+                  5,
+                  0,
+                  50,
+                  5,
+                  0,
+                  50,
+                  5,
+                  10,
+                  50,
+                  -5,
+                  10,
+                  50,
+                  -5,
+                  0,
+                  50,
+                  -5,
+                  0,
+                  50,
+                  -5,
+                  10,
+                  -50,
+                  -5,
+                  10,
+                  -50,
+                  -5,
+                  0,
+                  -50,
+                  -5,
+                  0,
+                  -50,
+                  -5,
+                  10,
+                  -50,
+                  5,
+                  10,
+                  -50,
+                  5,
+                  0,
+                  -50,
+                  5,
+                  0,
+                  50,
+                  5,
+                  0,
+                  50,
+                  -5,
+                  0,
+                  -50,
+                  -5,
+                  0,
+                  -50,
+                  5,
+                  10,
+                  50,
+                  5,
+                  10,
+                  50,
+                  -5,
+                  10,
+                  -50,
+                  -5,
+                  10
+                ],
+                "normalized": false
+              },
+              "normal": {
+                "itemSize": 3,
+                "type": "Float32Array",
+                "array": [
+                  0,
+                  1,
+                  0,
+                  0,
+                  1,
+                  0,
+                  0,
+                  1,
+                  0,
+                  0,
+                  1,
+                  0,
+                  1,
+                  0,
+                  0,
+                  1,
+                  0,
+                  0,
+                  1,
+                  0,
+                  0,
+                  1,
+                  0,
+                  0,
+                  0,
+                  -1,
+                  0,
+                  0,
+                  -1,
+                  0,
+                  0,
+                  -1,
+                  0,
+                  0,
+                  -1,
+                  0,
+                  -1,
+                  0,
+                  0,
+                  -1,
+                  0,
+                  0,
+                  -1,
+                  0,
+                  0,
+                  -1,
+                  0,
+                  0,
+                  0,
+                  0,
+                  -1,
+                  0,
+                  0,
+                  -1,
+                  0,
+                  0,
+                  -1,
+                  0,
+                  0,
+                  -1,
+                  0,
+                  0,
+                  1,
+                  0,
+                  0,
+                  1,
+                  0,
+                  0,
+                  1,
+                  0,
+                  0,
+                  1
+                ],
+                "normalized": false
+              }
+            },
+            "index": {
+              "type": "Uint32Array",
+              "array": [
+                3,
+                0,
+                1,
+                3,
+                1,
+                2,
+                7,
+                4,
+                5,
+                7,
+                5,
+                6,
+                11,
+                8,
+                9,
+                11,
+                9,
+                10,
+                15,
+                12,
+                13,
+                15,
+                13,
+                14,
+                16,
+                17,
+                18,
+                16,
+                18,
+                19,
+                21,
+                20,
+                22,
+                22,
+                20,
+                23
+              ]
+            },
+            "boundingSphere": {
+              "center": [
+                0,
+                0,
+                5
+              ],
+              "radius": 50.49752469181039
+            }
+          }
+        },
+        "faceMapping": [
+          {
+            "start": 0,
+            "count": 6,
+            "faceId": 0
+          },
+          {
+            "start": 6,
+            "count": 6,
+            "faceId": 1
+          },
+          {
+            "start": 12,
+            "count": 6,
+            "faceId": 2
+          },
+          {
+            "start": 18,
+            "count": 6,
+            "faceId": 3
+          },
+          {
+            "start": 24,
+            "count": 6,
+            "faceId": 4
+          },
+          {
+            "start": 30,
+            "count": 6,
+            "faceId": 5
+          }
+        ],
+        "edgeMapping": []
+      },
+      {
         "id": "AXIS_X",
         "name": "X Axis",
         "type": "datumAxis",
@@ -34,7 +311,7 @@
             "type": "BufferGeometry",
             "generator": "BufferGeometry.toJSON"
           },
-          "uuid": "a991ba0d-2f1c-4bd9-b093-99c4c66a674f",
+          "uuid": "b94826c6-b1c1-4490-8ed2-d74488b2e8e8",
           "type": "CylinderGeometry",
           "radiusTop": 2,
           "radiusBottom": 2,
@@ -51,7 +328,7 @@
             "type": "BufferGeometry",
             "generator": "BufferGeometry.toJSON"
           },
-          "uuid": "b4902ad0-c70c-4fdc-bc56-53b5e5324b4a",
+          "uuid": "2bfd173e-e9dd-4368-90c3-a5b2b427b027",
           "type": "BufferGeometry",
           "data": {
             "attributes": {
@@ -109,7 +386,7 @@
             "type": "BufferGeometry",
             "generator": "BufferGeometry.toJSON"
           },
-          "uuid": "fcb8940f-a911-4eae-894f-525cec653ea1",
+          "uuid": "3cf41096-4634-4591-8d72-371942ef8127",
           "type": "CylinderGeometry",
           "radiusTop": 2,
           "radiusBottom": 2,
@@ -126,7 +403,7 @@
             "type": "BufferGeometry",
             "generator": "BufferGeometry.toJSON"
           },
-          "uuid": "25a6f433-7d42-4d71-9307-80b4429607a1",
+          "uuid": "ef262687-dc2e-4a05-85bf-2cddfe1ce458",
           "type": "BufferGeometry",
           "data": {
             "attributes": {
@@ -184,7 +461,7 @@
             "type": "BufferGeometry",
             "generator": "BufferGeometry.toJSON"
           },
-          "uuid": "b49c2e58-a8c8-4952-ae04-0ea28e453148",
+          "uuid": "3b36af1d-d7e4-4730-9be1-020adc056cce",
           "type": "CylinderGeometry",
           "radiusTop": 2,
           "radiusBottom": 2,
@@ -201,7 +478,7 @@
             "type": "BufferGeometry",
             "generator": "BufferGeometry.toJSON"
           },
-          "uuid": "5c19ab77-ab70-4e09-8f3f-51196072acc0",
+          "uuid": "5fcba274-5637-4103-8a63-ce145e274842",
           "type": "BufferGeometry",
           "data": {
             "attributes": {
@@ -231,13 +508,13 @@
         }
       }
     ],
-    "code": "const main = () => { return; };",
+    "code": "const main = () => {\n  const shape1 = replicad.makeBaseBox(100, 10, 10);\n  return [shape1];\n};",
     "versions": [],
     "branches": {},
     "currentBranch": "main",
     "currentVersionId": null
   },
   "version": "1.0.0",
-  "lastModified": 1769471168854,
+  "lastModified": 1769471179954,
   "tags": []
 }
