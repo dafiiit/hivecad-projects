@@ -27,7 +27,7 @@
         "dimensions": {},
         "color": "#6090c0",
         "visible": true,
-        "selected": true,
+        "selected": false,
         "geometry": {
           "metadata": {
             "version": 4.6,
@@ -77736,6 +77736,6 @@
     "currentVersionId": null
   },
   "version": "1.0.0",
-  "lastModified": 1769450358220,
+  "lastModified": 1769450362034,
   "tags": []
 }
