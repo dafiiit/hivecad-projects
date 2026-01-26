@@ -34,7 +34,7 @@
             "type": "BufferGeometry",
             "generator": "BufferGeometry.toJSON"
           },
-          "uuid": "94f0acd6-dd81-4452-9e5d-f52ce70161ce",
+          "uuid": "6f6ff5b1-ca30-404f-9bf3-c2fb6008935c",
           "type": "BufferGeometry",
           "data": {
             "attributes": {
@@ -311,7 +311,7 @@
             "type": "BufferGeometry",
             "generator": "BufferGeometry.toJSON"
           },
-          "uuid": "b94826c6-b1c1-4490-8ed2-d74488b2e8e8",
+          "uuid": "7afd3124-81b0-4e8e-8e22-d571f2099e4d",
           "type": "CylinderGeometry",
           "radiusTop": 2,
           "radiusBottom": 2,
@@ -328,7 +328,7 @@
             "type": "BufferGeometry",
             "generator": "BufferGeometry.toJSON"
           },
-          "uuid": "2bfd173e-e9dd-4368-90c3-a5b2b427b027",
+          "uuid": "4faa3db3-ff6d-4a65-8a19-90cfea6660d3",
           "type": "BufferGeometry",
           "data": {
             "attributes": {
@@ -386,7 +386,7 @@
             "type": "BufferGeometry",
             "generator": "BufferGeometry.toJSON"
           },
-          "uuid": "3cf41096-4634-4591-8d72-371942ef8127",
+          "uuid": "f7e40c80-1499-4721-b288-2c045db048b1",
           "type": "CylinderGeometry",
           "radiusTop": 2,
           "radiusBottom": 2,
@@ -403,7 +403,7 @@
             "type": "BufferGeometry",
             "generator": "BufferGeometry.toJSON"
           },
-          "uuid": "ef262687-dc2e-4a05-85bf-2cddfe1ce458",
+          "uuid": "942696f9-143e-4632-90fd-b5ffd5954ce1",
           "type": "BufferGeometry",
           "data": {
             "attributes": {
@@ -461,7 +461,7 @@
             "type": "BufferGeometry",
             "generator": "BufferGeometry.toJSON"
           },
-          "uuid": "3b36af1d-d7e4-4730-9be1-020adc056cce",
+          "uuid": "f3694ae5-74d8-4dbf-b96c-45fbcacd4365",
           "type": "CylinderGeometry",
           "radiusTop": 2,
           "radiusBottom": 2,
@@ -478,7 +478,7 @@
             "type": "BufferGeometry",
             "generator": "BufferGeometry.toJSON"
           },
-          "uuid": "5fcba274-5637-4103-8a63-ce145e274842",
+          "uuid": "14597fe4-b755-466c-b7b6-1944fc904f59",
           "type": "BufferGeometry",
           "data": {
             "attributes": {
@@ -515,6 +515,6 @@
     "currentVersionId": null
   },
   "version": "1.0.0",
-  "lastModified": 1769471304147,
+  "lastModified": 1769471309444,
   "tags": []
 }
