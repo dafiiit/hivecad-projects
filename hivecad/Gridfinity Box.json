@@ -25,16 +25,16 @@
           1
         ],
         "dimensions": {},
-        "color": "#c06060",
+        "color": "#6090c0",
         "visible": true,
-        "selected": true,
+        "selected": false,
         "geometry": {
           "metadata": {
             "version": 4.6,
             "type": "BufferGeometry",
             "generator": "BufferGeometry.toJSON"
           },
-          "uuid": "3fce2c70-c452-40cf-a032-ce6e940576c8",
+          "uuid": "cbb43560-4cf7-4979-8cab-32e03515c38b",
           "type": "BufferGeometry",
           "data": {
             "attributes": {
@@ -15830,7 +15830,7 @@
             "type": "BufferGeometry",
             "generator": "BufferGeometry.toJSON"
           },
-          "uuid": "346f1bc0-399b-445a-8e81-bb0369cdbff6",
+          "uuid": "5b29f255-f7a2-444e-b73f-ba5b71716ec4",
           "type": "BufferGeometry",
           "data": {
             "attributes": {
@@ -20466,7 +20466,7 @@
             "type": "BufferGeometry",
             "generator": "BufferGeometry.toJSON"
           },
-          "uuid": "297d467a-3242-407f-9ccb-b543c045ea64",
+          "uuid": "2c1ff24e-043e-43a7-8964-e8034c098ead",
           "type": "CylinderGeometry",
           "radiusTop": 2,
           "radiusBottom": 2,
@@ -20483,7 +20483,7 @@
             "type": "BufferGeometry",
             "generator": "BufferGeometry.toJSON"
           },
-          "uuid": "9b932b93-8e9f-4f67-b33a-5c490bfc9de7",
+          "uuid": "9c311480-7fe8-4c92-878a-faeef3151a46",
           "type": "BufferGeometry",
           "data": {
             "attributes": {
@@ -20541,7 +20541,7 @@
             "type": "BufferGeometry",
             "generator": "BufferGeometry.toJSON"
           },
-          "uuid": "fa828d10-3d85-41c7-9c83-3189d5be6c24",
+          "uuid": "0f72595f-b762-43fd-a135-6eef8c507049",
           "type": "CylinderGeometry",
           "radiusTop": 2,
           "radiusBottom": 2,
@@ -20558,7 +20558,7 @@
             "type": "BufferGeometry",
             "generator": "BufferGeometry.toJSON"
           },
-          "uuid": "75910858-ca9f-4f0f-8359-c2341ba6443b",
+          "uuid": "3b1670b8-a31d-4b4d-86a8-fe780258bb2c",
           "type": "BufferGeometry",
           "data": {
             "attributes": {
@@ -20616,7 +20616,7 @@
             "type": "BufferGeometry",
             "generator": "BufferGeometry.toJSON"
           },
-          "uuid": "9b786b50-833a-4a52-86c1-52c5b5e3de47",
+          "uuid": "a537778a-8349-4997-8d51-4536a2b9b0d0",
           "type": "CylinderGeometry",
           "radiusTop": 2,
           "radiusBottom": 2,
@@ -20633,7 +20633,7 @@
             "type": "BufferGeometry",
             "generator": "BufferGeometry.toJSON"
           },
-          "uuid": "e9f616ed-88da-4768-b127-6414d9927817",
+          "uuid": "b2ebb9a1-70b4-4999-b8a6-ff2bd902766d",
           "type": "BufferGeometry",
           "data": {
             "attributes": {
@@ -20670,6 +20670,6 @@
     "currentVersionId": null
   },
   "version": "1.0.0",
-  "lastModified": 1769455673256,
+  "lastModified": 1769455681439,
   "tags": []
 }
