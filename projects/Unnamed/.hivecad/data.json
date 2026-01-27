@@ -25,7 +25,7 @@
           1
         ],
         "dimensions": {},
-        "color": "#6090c0",
+        "color": "#60c060",
         "visible": true,
         "selected": false,
         "geometry": {
@@ -34,7 +34,7 @@
             "type": "BufferGeometry",
             "generator": "BufferGeometry.toJSON"
           },
-          "uuid": "6f6ff5b1-ca30-404f-9bf3-c2fb6008935c",
+          "uuid": "c22d8a3f-7acd-4de2-9f6e-0c938f3234ea",
           "type": "BufferGeometry",
           "data": {
             "attributes": {
@@ -311,7 +311,7 @@
             "type": "BufferGeometry",
             "generator": "BufferGeometry.toJSON"
           },
-          "uuid": "7afd3124-81b0-4e8e-8e22-d571f2099e4d",
+          "uuid": "85044c1c-a5ab-4167-9e10-0e9bd62c771e",
           "type": "CylinderGeometry",
           "radiusTop": 2,
           "radiusBottom": 2,
@@ -328,7 +328,7 @@
             "type": "BufferGeometry",
             "generator": "BufferGeometry.toJSON"
           },
-          "uuid": "4faa3db3-ff6d-4a65-8a19-90cfea6660d3",
+          "uuid": "55e77e1e-dae1-454d-8b0c-2045999e3a43",
           "type": "BufferGeometry",
           "data": {
             "attributes": {
@@ -386,7 +386,7 @@
             "type": "BufferGeometry",
             "generator": "BufferGeometry.toJSON"
           },
-          "uuid": "f7e40c80-1499-4721-b288-2c045db048b1",
+          "uuid": "f6b384f8-7193-42fe-801b-1726593d7171",
           "type": "CylinderGeometry",
           "radiusTop": 2,
           "radiusBottom": 2,
@@ -403,7 +403,7 @@
             "type": "BufferGeometry",
             "generator": "BufferGeometry.toJSON"
           },
-          "uuid": "942696f9-143e-4632-90fd-b5ffd5954ce1",
+          "uuid": "d66874bf-b831-4f70-877f-5fc97562e89d",
           "type": "BufferGeometry",
           "data": {
             "attributes": {
@@ -461,7 +461,7 @@
             "type": "BufferGeometry",
             "generator": "BufferGeometry.toJSON"
           },
-          "uuid": "f3694ae5-74d8-4dbf-b96c-45fbcacd4365",
+          "uuid": "cbd82b9a-2f23-4f94-828e-7ac14f8dc304",
           "type": "CylinderGeometry",
           "radiusTop": 2,
           "radiusBottom": 2,
@@ -478,7 +478,7 @@
             "type": "BufferGeometry",
             "generator": "BufferGeometry.toJSON"
           },
-          "uuid": "14597fe4-b755-466c-b7b6-1944fc904f59",
+          "uuid": "c5cbeb57-b2e6-4cb9-b2df-0b7991ebae5e",
           "type": "BufferGeometry",
           "data": {
             "attributes": {
@@ -515,7 +515,6 @@
     "currentVersionId": null
   },
   "version": "1.0.0",
-  "lastModified": 1769536782874,
-  "tags": [],
-  "folder": "test"
+  "lastModified": 1769536794551,
+  "tags": []
 }
