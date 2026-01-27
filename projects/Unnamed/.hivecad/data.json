@@ -34,7 +34,7 @@
             "type": "BufferGeometry",
             "generator": "BufferGeometry.toJSON"
           },
-          "uuid": "4cde206f-d720-4f57-be6d-838954902b13",
+          "uuid": "8abc2999-7c83-401a-bedd-8f812e9f10cf",
           "type": "CylinderGeometry",
           "radiusTop": 2,
           "radiusBottom": 2,
@@ -51,7 +51,7 @@
             "type": "BufferGeometry",
             "generator": "BufferGeometry.toJSON"
           },
-          "uuid": "7d45fcc8-927b-4b8e-8526-9783dfae6885",
+          "uuid": "fd8b634c-7858-4db9-b421-4107d50c27b4",
           "type": "BufferGeometry",
           "data": {
             "attributes": {
@@ -109,7 +109,7 @@
             "type": "BufferGeometry",
             "generator": "BufferGeometry.toJSON"
           },
-          "uuid": "2402f6f3-efe6-48d6-977e-f57597bafc53",
+          "uuid": "f12f37a4-9e95-4abf-94f7-3bf036f8ac33",
           "type": "CylinderGeometry",
           "radiusTop": 2,
           "radiusBottom": 2,
@@ -126,7 +126,7 @@
             "type": "BufferGeometry",
             "generator": "BufferGeometry.toJSON"
           },
-          "uuid": "602ef90d-90d5-47de-b3a8-9c1ae6b2420b",
+          "uuid": "a04a0773-c70c-49c2-a74d-6e43963b384c",
           "type": "BufferGeometry",
           "data": {
             "attributes": {
@@ -184,7 +184,7 @@
             "type": "BufferGeometry",
             "generator": "BufferGeometry.toJSON"
           },
-          "uuid": "2a3444f2-099f-4e6b-b2c3-4dff82acdc50",
+          "uuid": "e0a53bf5-c089-49cb-b207-004dc235251e",
           "type": "CylinderGeometry",
           "radiusTop": 2,
           "radiusBottom": 2,
@@ -201,7 +201,7 @@
             "type": "BufferGeometry",
             "generator": "BufferGeometry.toJSON"
           },
-          "uuid": "a7ba96b5-4389-4c0e-a888-15becf859b47",
+          "uuid": "a53768be-ff2f-43a0-8478-683f9612f2d3",
           "type": "BufferGeometry",
           "data": {
             "attributes": {
@@ -238,6 +238,6 @@
     "currentVersionId": null
   },
   "version": "1.0.0",
-  "lastModified": 1769539921980,
+  "lastModified": 1769540067660,
   "tags": []
 }
