@@ -1,0 +1,11 @@
+{
+  "id": "example-watering-can",
+  "name": "Watering Can",
+  "ownerId": "dafiiit",
+  "files": {
+    "index.js": "const { makePlane, makeCylinder, draw, drawCircle } = replicad;\n\nconst defaultParams = {};\n\nconst main = () => {\n  // Building the body\n  const profile = draw()\n    .hLine(20)\n    .line(10, 5)\n    .vLine(3)\n    .lineTo([8, 100])\n    .hLine(-8)\n    .close();\n\n  const body = profile.sketchOnPlane(\"XZ\").revolve([0, 0, 1]);\n\n  // Building the filler\n  const topPlane = makePlane().pivot(-20, \"Y\").translate([-35, 0, 135]);\n  const topCircle = drawCircle(12).sketchOnPlane(topPlane);\n\n  const middleCircle = drawCircle(8).sketchOnPlane(\"XY\", 100);\n\n  const bottomPlane = makePlane().pivot(20, \"Y\").translateZ(80);\n  const bottomCircle = drawCircle(9).sketchOnPlane(bottomPlane);\n\n  const filler = topCircle.loftWith([middleCircle, bottomCircle], {\n    ruled: false,\n  });\n\n  // Building the spout\n  const spout = makeCylinder(5, 70)\n    .translateZ(100)\n    .rotate(45, [0, 0, 100], [0, 1, 0]);\n\n  let wateringCan = body\n    .fuse(filler)\n    .fillet(30, (e) => e.inPlane(\"XY\", 100))\n    .fuse(spout)\n    .fillet(10, (e) => e.inBox([20, 20, 100], [-20, -20, 120]));\n\n  const spoutOpening = [\n    Math.cos((45 * Math.PI) / 180) * 70,\n    0,\n    100 + Math.sin((45 * Math.PI) / 180) * 70,\n  ];\n\n  wateringCan = wateringCan.shell(-1, (face) =>\n    face.either([\n      (f) => f.containsPoint(spoutOpening),\n      (f) => f.inPlane(topPlane),\n    ])\n  );\n\n  return wateringCan;\n};"
+  },
+  "version": "1.0.0",
+  "lastModified": 1769553339940,
+  "tags": []
+}
