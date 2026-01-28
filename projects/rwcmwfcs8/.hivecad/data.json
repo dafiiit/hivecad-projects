@@ -1,0 +1,11 @@
+{
+  "id": "rwcmwfcs8",
+  "name": "Unnamed 3s",
+  "ownerId": "dafiiit",
+  "files": {
+    "code": "const main = () => {\n  const shape1 = replicad.makeSphere(100);\n  return [shape1];\n};"
+  },
+  "version": "1.0.0",
+  "lastModified": 1769639777150,
+  "tags": []
+}
