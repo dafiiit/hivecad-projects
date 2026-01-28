@@ -3,9 +3,9 @@
   "name": "box",
   "ownerId": "dafiiit",
   "files": {
-    "code": "const main = () => { return; };"
+    "code": "const main = () => {\n  const shape1 = replicad.makeBaseBox(10, 10, 10);\n  return [shape1];\n};"
   },
   "version": "1.0.0",
-  "lastModified": 1769636907264,
+  "lastModified": 1769636919025,
   "tags": []
 }
