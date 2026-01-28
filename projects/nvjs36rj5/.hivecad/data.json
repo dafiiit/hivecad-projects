@@ -6,6 +6,6 @@
     "code": "const main = () => {\n  const shape1 = replicad.draw().movePointerTo([-34.53976928518959, 34.711063398194526]).lineTo([-2.373961545970346, -16.758374757672755]).lineTo([31.521467245933266, 34.711063398194526]).threePointsArcTo([1.7763568394002505e-15, 34.8856563436218], [15.84418243319682, 49.86442644046934]).threePointsArcTo([-34.53976928518959, 34.711063398194526], [-17.35243860680972, 51.13003278348423]).close().sketchOnPlane(\"XZ\").extrude(30, undefined);\n  return [shape1];\n};"
   },
   "version": "1.0.0",
-  "lastModified": 1769640876210,
+  "lastModified": 1769640893648,
   "tags": []
 }
