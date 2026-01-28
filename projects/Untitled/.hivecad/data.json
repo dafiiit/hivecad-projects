@@ -1,0 +1,17 @@
+{
+  "id": "Untitled",
+  "name": "Untitled",
+  "ownerId": "dafiiit",
+  "files": {
+    "fileName": "Untitled",
+    "objects": [],
+    "code": "const main = () => { return; };",
+    "versions": [],
+    "branches": {},
+    "currentBranch": "main",
+    "currentVersionId": null
+  },
+  "version": "1.0.0",
+  "lastModified": 1769563128321,
+  "tags": []
+}
