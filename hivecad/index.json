@@ -29,7 +29,10 @@
     "name": "Unnamed 8",
     "ownerId": "dafiiit",
     "version": "1.0.0",
-    "lastModified": 1769640939827,
-    "tags": []
+    "lastModified": 1769640941360,
+    "tags": [
+      "Trash"
+    ],
+    "deletedAt": 1769640941165
   }
 ]
