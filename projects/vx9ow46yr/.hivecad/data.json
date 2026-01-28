@@ -3,6 +3,8 @@
   "name": "vx9ow46yr",
   "ownerId": "dafiiit",
   "files": {
+    "name": "vx9ow46yr",
+    "fileName": "vx9ow46yr",
     "objects": [
       {
         "id": "AXIS_X",
@@ -33,7 +35,7 @@
             "type": "BufferGeometry",
             "generator": "BufferGeometry.toJSON"
           },
-          "uuid": "6fefeb16-96db-4f96-9481-c9052263a8fd",
+          "uuid": "588b4475-bb7a-45c0-acd8-85d5773967d1",
           "type": "CylinderGeometry",
           "radiusTop": 2,
           "radiusBottom": 2,
@@ -50,7 +52,7 @@
             "type": "BufferGeometry",
             "generator": "BufferGeometry.toJSON"
           },
-          "uuid": "9fc2caa7-2312-4198-a329-90be36e6570b",
+          "uuid": "d6c13933-d502-4fdd-b2d1-14c0d28e8679",
           "type": "BufferGeometry",
           "data": {
             "attributes": {
@@ -108,7 +110,7 @@
             "type": "BufferGeometry",
             "generator": "BufferGeometry.toJSON"
           },
-          "uuid": "b9f18769-4d90-4889-8583-d19e280fc841",
+          "uuid": "b5089364-e90d-41dd-932f-13841d23a3f6",
           "type": "CylinderGeometry",
           "radiusTop": 2,
           "radiusBottom": 2,
@@ -125,7 +127,7 @@
             "type": "BufferGeometry",
             "generator": "BufferGeometry.toJSON"
           },
-          "uuid": "8c6e924b-f78b-4e05-a097-960984971445",
+          "uuid": "fcac44e7-9f99-4c41-bc03-1b584acc3e72",
           "type": "BufferGeometry",
           "data": {
             "attributes": {
@@ -183,7 +185,7 @@
             "type": "BufferGeometry",
             "generator": "BufferGeometry.toJSON"
           },
-          "uuid": "6f445583-693e-4208-a044-073540d40b8c",
+          "uuid": "437e103c-9cc9-4efa-8248-f4570dac2146",
           "type": "CylinderGeometry",
           "radiusTop": 2,
           "radiusBottom": 2,
@@ -200,7 +202,7 @@
             "type": "BufferGeometry",
             "generator": "BufferGeometry.toJSON"
           },
-          "uuid": "7c48f018-6c95-4ec4-a2be-743a7b2095d4",
+          "uuid": "a68bacca-d6d4-40f0-85f6-31c26efc6119",
           "type": "BufferGeometry",
           "data": {
             "attributes": {
@@ -237,6 +239,6 @@
     "currentVersionId": null
   },
   "version": "1.0.0",
-  "lastModified": 1769620628052,
+  "lastModified": 1769620659208,
   "tags": []
 }
