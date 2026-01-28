@@ -1,0 +1,11 @@
+{
+  "id": "80hkbytpu",
+  "name": "bar 3",
+  "ownerId": "dafiiit",
+  "files": {
+    "code": "const main = () => {\n  const shape1 = replicad.makeBaseBox(100, 10, 10);\n  return [shape1];\n};"
+  },
+  "version": "1.0.0",
+  "lastModified": 1769639763661,
+  "tags": []
+}
