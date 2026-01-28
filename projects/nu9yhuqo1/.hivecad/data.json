@@ -1,0 +1,17 @@
+{
+  "id": "nu9yhuqo1",
+  "name": "nu9yhuqo1",
+  "ownerId": "dafiiit",
+  "files": {
+    "fileName": "Untitled",
+    "objects": [],
+    "code": "const main = () => { return; };",
+    "versions": [],
+    "branches": {},
+    "currentBranch": "main",
+    "currentVersionId": null
+  },
+  "version": "1.0.0",
+  "lastModified": 1769560500487,
+  "tags": []
+}
