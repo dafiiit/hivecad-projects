@@ -1886,6 +1886,9 @@
     "currentVersionId": null
   },
   "version": "1.0.0",
-  "lastModified": 1769711902923,
-  "tags": []
+  "lastModified": 1769711922140,
+  "tags": [
+    "Trash"
+  ],
+  "deletedAt": 1769711922124
 }
