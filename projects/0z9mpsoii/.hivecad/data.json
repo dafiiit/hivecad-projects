@@ -1,0 +1,244 @@
+{
+  "id": "0z9mpsoii",
+  "name": "Unnamed 2",
+  "ownerId": "dafiiit",
+  "files": {
+    "name": "Unnamed 2",
+    "fileName": "Unnamed 2",
+    "objects": [
+      {
+        "id": "AXIS_X",
+        "name": "X Axis",
+        "type": "datumAxis",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ],
+        "dimensions": {},
+        "color": "#ff4444",
+        "visible": true,
+        "selected": false,
+        "geometry": {
+          "metadata": {
+            "version": 4.6,
+            "type": "BufferGeometry",
+            "generator": "BufferGeometry.toJSON"
+          },
+          "uuid": "97cbdb98-2c9c-49bf-9d03-d4152eb85541",
+          "type": "CylinderGeometry",
+          "radiusTop": 2,
+          "radiusBottom": 2,
+          "height": 50,
+          "radialSegments": 32,
+          "heightSegments": 1,
+          "openEnded": false,
+          "thetaStart": 0,
+          "thetaLength": 6.283185307179586
+        },
+        "edgeGeometry": {
+          "metadata": {
+            "version": 4.6,
+            "type": "BufferGeometry",
+            "generator": "BufferGeometry.toJSON"
+          },
+          "uuid": "94e04fe3-88e6-40df-94c9-468730071611",
+          "type": "BufferGeometry",
+          "data": {
+            "attributes": {
+              "position": {
+                "itemSize": 3,
+                "type": "Float32Array",
+                "array": [
+                  0,
+                  0,
+                  0,
+                  50,
+                  0,
+                  0
+                ],
+                "normalized": false
+              }
+            },
+            "boundingSphere": {
+              "center": [
+                25,
+                0,
+                0
+              ],
+              "radius": 25
+            }
+          }
+        }
+      },
+      {
+        "id": "AXIS_Y",
+        "name": "Y Axis",
+        "type": "datumAxis",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ],
+        "dimensions": {},
+        "color": "#44ff44",
+        "visible": true,
+        "selected": false,
+        "geometry": {
+          "metadata": {
+            "version": 4.6,
+            "type": "BufferGeometry",
+            "generator": "BufferGeometry.toJSON"
+          },
+          "uuid": "7669f8cd-ff45-43bc-89a0-ce8b697ab081",
+          "type": "CylinderGeometry",
+          "radiusTop": 2,
+          "radiusBottom": 2,
+          "height": 50,
+          "radialSegments": 32,
+          "heightSegments": 1,
+          "openEnded": false,
+          "thetaStart": 0,
+          "thetaLength": 6.283185307179586
+        },
+        "edgeGeometry": {
+          "metadata": {
+            "version": 4.6,
+            "type": "BufferGeometry",
+            "generator": "BufferGeometry.toJSON"
+          },
+          "uuid": "9f4fc825-3b8a-4dc2-9caa-f3313aa46e16",
+          "type": "BufferGeometry",
+          "data": {
+            "attributes": {
+              "position": {
+                "itemSize": 3,
+                "type": "Float32Array",
+                "array": [
+                  0,
+                  0,
+                  0,
+                  0,
+                  50,
+                  0
+                ],
+                "normalized": false
+              }
+            },
+            "boundingSphere": {
+              "center": [
+                0,
+                25,
+                0
+              ],
+              "radius": 25
+            }
+          }
+        }
+      },
+      {
+        "id": "AXIS_Z",
+        "name": "Z Axis",
+        "type": "datumAxis",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ],
+        "dimensions": {},
+        "color": "#4444ff",
+        "visible": true,
+        "selected": false,
+        "geometry": {
+          "metadata": {
+            "version": 4.6,
+            "type": "BufferGeometry",
+            "generator": "BufferGeometry.toJSON"
+          },
+          "uuid": "4ee7243c-4f7f-4c0d-aa8d-d55eda7810a4",
+          "type": "CylinderGeometry",
+          "radiusTop": 2,
+          "radiusBottom": 2,
+          "height": 50,
+          "radialSegments": 32,
+          "heightSegments": 1,
+          "openEnded": false,
+          "thetaStart": 0,
+          "thetaLength": 6.283185307179586
+        },
+        "edgeGeometry": {
+          "metadata": {
+            "version": 4.6,
+            "type": "BufferGeometry",
+            "generator": "BufferGeometry.toJSON"
+          },
+          "uuid": "3e7af565-b907-41a2-bb75-37db071cdd3c",
+          "type": "BufferGeometry",
+          "data": {
+            "attributes": {
+              "position": {
+                "itemSize": 3,
+                "type": "Float32Array",
+                "array": [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  50
+                ],
+                "normalized": false
+              }
+            },
+            "boundingSphere": {
+              "center": [
+                0,
+                0,
+                25
+              ],
+              "radius": 25
+            }
+          }
+        }
+      }
+    ],
+    "code": "const main = () => { return; };",
+    "versions": [],
+    "branches": {},
+    "currentBranch": "main",
+    "currentVersionId": null
+  },
+  "version": "1.0.0",
+  "lastModified": 1769712709491,
+  "tags": []
+}
