@@ -1,0 +1,11 @@
+{
+  "id": "ahbdai14o",
+  "name": "Cube",
+  "ownerId": "dafiiit",
+  "files": {
+    "code": "const main = () => {\n  const shape1 = replicad.makeBaseBox(100, 100, 100);\n  return [shape1];\n};"
+  },
+  "version": "1.0.0",
+  "lastModified": 1769773242222,
+  "tags": []
+}
