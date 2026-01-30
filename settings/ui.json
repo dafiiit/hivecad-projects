@@ -1,1 +1,85 @@
-{}
+{
+  "customToolbars": [
+    {
+      "id": "SOLID",
+      "name": "SOLID",
+      "sections": [
+        {
+          "id": "gxee0we",
+          "label": "CREATE",
+          "toolIds": [
+            "sketch",
+            "folder:folder-body",
+            "extrusion",
+            "revolve"
+          ]
+        },
+        {
+          "id": "wt0m7bj",
+          "label": "MODIFY",
+          "toolIds": [
+            "move",
+            "rotate",
+            "scale",
+            "duplicate",
+            "delete"
+          ]
+        },
+        {
+          "id": "x1obo7z",
+          "label": "COMBINE",
+          "toolIds": [
+            "join",
+            "cut",
+            "intersect"
+          ]
+        },
+        {
+          "id": "mjiea72",
+          "label": "CONFIGURE",
+          "toolIds": [
+            "parameters",
+            "pattern"
+          ]
+        },
+        {
+          "id": "hrjl188",
+          "label": "CONSTRUCT",
+          "toolIds": [
+            "plane",
+            "axis",
+            "point"
+          ]
+        },
+        {
+          "id": "kockw6b",
+          "label": "INSPECT",
+          "toolIds": [
+            "measure",
+            "analyze"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "j7nfgw0",
+      "name": "New Toolbox",
+      "sections": []
+    }
+  ],
+  "folders": {
+    "folder-body": {
+      "id": "folder-body",
+      "label": "Body",
+      "icon": "Box",
+      "toolIds": [
+        "box",
+        "cylinder",
+        "sphere",
+        "torus",
+        "coil"
+      ]
+    }
+  },
+  "activeToolbarId": "j7nfgw0"
+}
