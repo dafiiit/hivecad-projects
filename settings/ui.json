@@ -64,7 +64,13 @@
     {
       "id": "55ya7lf",
       "name": "New Toolbox",
-      "sections": []
+      "sections": [
+        {
+          "id": "redsxxn",
+          "label": "new section",
+          "toolIds": []
+        }
+      ]
     }
   ],
   "folders": {
