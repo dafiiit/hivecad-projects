@@ -68,7 +68,9 @@
         {
           "id": "redsxxn",
           "label": "new section",
-          "toolIds": []
+          "toolIds": [
+            "test-1"
+          ]
         }
       ]
     }
