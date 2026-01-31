@@ -1,1 +1,80 @@
-{}
+{
+  "customToolbars": [
+    {
+      "id": "SOLID",
+      "name": "SOLID",
+      "sections": [
+        {
+          "id": "c85qqxs",
+          "label": "CREATE",
+          "toolIds": [
+            "sketch",
+            "folder:folder-body",
+            "extrusion",
+            "revolve"
+          ]
+        },
+        {
+          "id": "6atkzby",
+          "label": "MODIFY",
+          "toolIds": [
+            "move",
+            "rotate",
+            "scale",
+            "duplicate",
+            "delete"
+          ]
+        },
+        {
+          "id": "cnhtpoc",
+          "label": "COMBINE",
+          "toolIds": [
+            "join",
+            "cut",
+            "intersect"
+          ]
+        },
+        {
+          "id": "c4t4od1",
+          "label": "CONFIGURE",
+          "toolIds": [
+            "parameters",
+            "pattern"
+          ]
+        },
+        {
+          "id": "ug1quhz",
+          "label": "CONSTRUCT",
+          "toolIds": [
+            "plane",
+            "axis",
+            "point"
+          ]
+        },
+        {
+          "id": "9xlcunl",
+          "label": "INSPECT",
+          "toolIds": [
+            "measure",
+            "analyze"
+          ]
+        }
+      ]
+    }
+  ],
+  "folders": {
+    "folder-body": {
+      "id": "folder-body",
+      "label": "Body",
+      "icon": "Box",
+      "toolIds": [
+        "box",
+        "cylinder",
+        "sphere",
+        "torus",
+        "coil"
+      ]
+    }
+  },
+  "activeToolbarId": "SOLID"
+}
