@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "id": "example-watering-can",
+    "name": "Watering Can",
+    "ownerId": "dafiiit",
+    "version": "1.0.0",
+    "lastModified": 1769857269707,
+    "tags": []
+  }
+]
