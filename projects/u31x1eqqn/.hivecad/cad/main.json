@@ -1,0 +1,116 @@
+{
+  "code": "const main = () => {\n  const shape1 = replicad.drawCircle(2).translate(10, 0).sketchOnPlane(\"XZ\").revolve();\n  return [shape1];\n};",
+  "objects": [
+    {
+      "id": "shape1",
+      "name": "Revolve 1",
+      "type": "revolve",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "dimensions": {
+        "sketchPlane": "XZ"
+      },
+      "color": "#6090c0",
+      "visible": true,
+      "selected": false,
+      "faceMapping": [
+        {
+          "start": 0,
+          "count": 1770,
+          "faceId": 0
+        },
+        {
+          "start": 1770,
+          "count": 2166,
+          "faceId": 1
+        }
+      ],
+      "edgeMapping": []
+    },
+    {
+      "id": "AXIS_X",
+      "name": "X Axis",
+      "type": "datumAxis",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "dimensions": {},
+      "color": "#ff4444",
+      "visible": true,
+      "selected": false
+    },
+    {
+      "id": "AXIS_Y",
+      "name": "Y Axis",
+      "type": "datumAxis",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "dimensions": {},
+      "color": "#44ff44",
+      "visible": true,
+      "selected": false
+    },
+    {
+      "id": "AXIS_Z",
+      "name": "Z Axis",
+      "type": "datumAxis",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "dimensions": {},
+      "color": "#4444ff",
+      "visible": true,
+      "selected": false
+    }
+  ]
+}
